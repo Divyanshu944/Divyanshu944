@@ -1,16 +1,53 @@
-## Hi there 👋
+# Hi 👋, I'm Divyanshu
 
-<!--
-**Divyanshu944/Divyanshu944** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 Full Stack Developer passionate about building scalable web applications and modern UI experiences.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Tech Stack
+
+### Frontend
+- React.js
+- Next.js
+- Tailwind CSS
+- JavaScript
+
+### Backend
+- Node.js
+- Express.js
+
+### Database
+- MongoDB
+- PostgreSQL
+
+### Tools
+- Git
+- GitHub
+- Docker
+- Firebase
+
+---
+
+## 📌 Featured Projects
+
+### 🔹 MERN Chat App
+Real-time chat application using Socket.io and MongoDB.
+
+### 🔹 AI Resume Builder
+AI-powered resume generator with ATS-friendly templates.
+
+### 🔹 Expense Tracker
+Track expenses with analytics dashboard and authentication.
+
+---
+
+## 🌱 Currently Learning
+- System Design
+- DevOps
+- Kubernetes
+
+---
+
+## 📫 Connect With Me
+- LinkedIn: [https://linkedin.com/](https://www.linkedin.com/in/divyanshupal2740/)
+- Email: paldivyanshu944@gmail.com
